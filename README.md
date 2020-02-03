@@ -14,3 +14,4 @@ Use below command to run the container
 
 docker run -d -p 8080:8080 --name mavenbuild mavenbuild
 
+Trying to test using fork and automatic compilation by sree
